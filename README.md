@@ -1,5 +1,5 @@
 # Machine-Learning-Time-Series-LSTM
-> @author : Mohamad Nafis
+> @author : Mohamad Nafis \
 > Dataset : "weatherinfoweek" \
 > Sumber : Kaggle \
 > Link Dataset : https://www.kaggle.com/code/davidbnn92/weather-data
